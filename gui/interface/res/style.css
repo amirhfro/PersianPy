@@ -1,0 +1,25 @@
+.code{
+    width: 100%;
+    border-radius: 10px;
+    margin: auto;
+    min-height: 60vh;
+    background-color: lightcyan;
+    border: 1px black solid;
+    resize: none;
+}
+.console{
+    width: 100%;
+    background-color: darkslategrey;
+    border-radius: 10px;
+    margin: 30px auto auto auto;
+    min-height: 30vh;
+}
+.run_btn{
+    background-color: darkgreen;
+    color: white;
+    display: block;
+    margin: auto;
+    padding: 5px 15px 5px 15px;
+    border-radius: 10px;
+    text-align: center;
+}

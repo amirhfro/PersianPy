@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="res/style.css">
+    <meta charset="UTF-8">
+    <title>پرشین پای</title>
+</head>
+<body>
+<main>
+    <label>
+        <textarea class="code" cols="20" rows="20"></textarea>
+    </label>
+    <input type="button" class="run_btn" value="اجرا">
+    <div class="console"></div>
+</main>
+</body>
+<script type="text/javascript" src="/eel.js"></script>
+<script>
+    eel.expose(get_code);
+function get_code(){
+    return document.getElementById('code').value;
+}
+</script>
+</html>

@@ -1,0 +1,95 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="CssUnknownProperty" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myCustomPropertiesEnabled" value="true" />
+      <option name="myIgnoreVendorSpecificProperties" value="false" />
+      <option name="myCustomPropertiesList">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="transform" />
+            <item index="1" class="java.lang.String" itemvalue="user-select" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue=")" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="7">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="lable" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="37">
+            <item index="0" class="java.lang.String" itemvalue="graphql-relay" />
+            <item index="1" class="java.lang.String" itemvalue="tzlocal" />
+            <item index="2" class="java.lang.String" itemvalue="crispy-bootstrap5" />
+            <item index="3" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="4" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="5" class="java.lang.String" itemvalue="psycopg2-binary" />
+            <item index="6" class="java.lang.String" itemvalue="numpy" />
+            <item index="7" class="java.lang.String" itemvalue="django-tables2" />
+            <item index="8" class="java.lang.String" itemvalue="django-livesync" />
+            <item index="9" class="java.lang.String" itemvalue="websocket-client" />
+            <item index="10" class="java.lang.String" itemvalue="soupsieve" />
+            <item index="11" class="java.lang.String" itemvalue="urllib3" />
+            <item index="12" class="java.lang.String" itemvalue="django-telegrambot" />
+            <item index="13" class="java.lang.String" itemvalue="postgres" />
+            <item index="14" class="java.lang.String" itemvalue="beautifulsoup4" />
+            <item index="15" class="java.lang.String" itemvalue="psycopg2-pool" />
+            <item index="16" class="java.lang.String" itemvalue="django-clearcache" />
+            <item index="17" class="java.lang.String" itemvalue="tornado" />
+            <item index="18" class="java.lang.String" itemvalue="django-crispy-forms" />
+            <item index="19" class="java.lang.String" itemvalue="aniso8601" />
+            <item index="20" class="java.lang.String" itemvalue="Rx" />
+            <item index="21" class="java.lang.String" itemvalue="graphql-core" />
+            <item index="22" class="java.lang.String" itemvalue="tzdata" />
+            <item index="23" class="java.lang.String" itemvalue="python-telegram-bot" />
+            <item index="24" class="java.lang.String" itemvalue="APScheduler" />
+            <item index="25" class="java.lang.String" itemvalue="pytz-deprecation-shim" />
+            <item index="26" class="java.lang.String" itemvalue="importlib-resources" />
+            <item index="27" class="java.lang.String" itemvalue="watchdog" />
+            <item index="28" class="java.lang.String" itemvalue="Django" />
+            <item index="29" class="java.lang.String" itemvalue="django-livereload-server" />
+            <item index="30" class="java.lang.String" itemvalue="cachetools" />
+            <item index="31" class="java.lang.String" itemvalue="charset-normalizer" />
+            <item index="32" class="java.lang.String" itemvalue="pytz" />
+            <item index="33" class="java.lang.String" itemvalue="django-tables2-reports" />
+            <item index="34" class="java.lang.String" itemvalue="appmap" />
+            <item index="35" class="java.lang.String" itemvalue="inflection" />
+            <item index="36" class="java.lang.String" itemvalue="Pillow" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
